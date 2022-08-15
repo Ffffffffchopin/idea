@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "09bd5dc376971666",
+    "type": "split",
+    "children": [
+      {
+        "id": "34fa66d77f999987",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "缘起.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e9e6dbd30c48746",
+    "type": "split",
+    "children": [
+      {
+        "id": "c42298d217b9fd35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2003db684832eaee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7e78292bdf905991",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3af1b31802f0699d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "46b4991629ca8e49",
+    "type": "split",
+    "children": [
+      {
+        "id": "91a385f821a48362",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ce67cfe96991af7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "缘起.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4b2a0a8f87d14e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "缘起.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "23307ef39fcf382f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fd2a1683656ba8d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "缘起.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "34fa66d77f999987",
+  "lastOpenFiles": [
+    "缘起.md"
+  ]
+}
