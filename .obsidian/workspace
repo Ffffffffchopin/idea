@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "缘起.md",
+            "file": "2022-08-15.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "46b4991629ca8e49",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "缘起.md",
+                "file": "2022-08-15.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "缘起.md",
+                "file": "2022-08-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "缘起.md"
+                "file": "2022-08-15.md"
               }
             }
           }
@@ -131,6 +130,7 @@
   },
   "active": "34fa66d77f999987",
   "lastOpenFiles": [
+    "未命名.md",
     "缘起.md"
   ]
 }
