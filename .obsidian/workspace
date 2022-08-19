@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-08-18.md",
+            "file": "专注和发散.md",
             "mode": "source",
+            "backlinks": false,
             "source": false
           }
         }
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-08-18.md",
+                "file": "专注和发散.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-08-18.md",
+                "file": "专注和发散.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,12 +118,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-08-18.md"
+                "file": "专注和发散.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -130,12 +130,15 @@
   },
   "active": "34fa66d77f999987",
   "lastOpenFiles": [
+    "openreview.md",
+    "专注和发散.md",
     "缘起.md",
     "像硅基生命一样思考.md",
-    "2022-08-18.md",
-    "To Do List.md",
+    "提高转专业成功率.md",
+    "强化学习EasyRL.md",
+    "海的诗.md",
+    "README.md",
     "Python for Music.md",
-    "2022-08-17.md",
-    "2022-08-15.md"
+    "2022-08-18.md"
   ]
 }
