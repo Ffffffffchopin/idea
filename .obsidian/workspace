@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "如何阅读一段代码.md",
+            "file": "主动学习.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "如何阅读一段代码.md",
+                "file": "主动学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "如何阅读一段代码.md",
+                "file": "主动学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "如何阅读一段代码.md"
+                "file": "主动学习.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "5555ce587d11b182",
   "lastOpenFiles": [
+    "如何阅读一段代码.md",
     "强化学习EasyRL.md",
     "提高转专业成功率.md",
     "无课表生成器.md",
@@ -138,7 +139,6 @@
     "openreview.md",
     "专注和发散.md",
     "缘起.md",
-    "像硅基生命一样思考.md",
-    "To Do List.md"
+    "像硅基生命一样思考.md"
   ]
 }
