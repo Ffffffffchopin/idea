@@ -1,17 +1,16 @@
 {
   "main": {
-    "id": "09bd5dc376971666",
+    "id": "ceedd0ed370334ed",
     "type": "split",
     "children": [
       {
-        "id": "34fa66d77f999987",
+        "id": "5555ce587d11b182",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "专注和发散.md",
+            "file": "如何阅读一段代码.md",
             "mode": "source",
-            "backlinks": false,
             "source": false
           }
         }
@@ -20,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9e9e6dbd30c48746",
+    "id": "4427123512f4ab35",
     "type": "split",
     "children": [
       {
-        "id": "c42298d217b9fd35",
+        "id": "3001021f9226476d",
         "type": "tabs",
         "children": [
           {
-            "id": "2003db684832eaee",
+            "id": "d1c3e15ed57e56e1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -36,7 +35,7 @@
             }
           },
           {
-            "id": "7e78292bdf905991",
+            "id": "126f37a85bb0c33c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -51,7 +50,7 @@
             }
           },
           {
-            "id": "3af1b31802f0699d",
+            "id": "704057efae202b12",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -65,22 +64,22 @@
     "width": 300
   },
   "right": {
-    "id": "46b4991629ca8e49",
+    "id": "4f323081622ed892",
     "type": "split",
     "children": [
       {
-        "id": "91a385f821a48362",
+        "id": "9009a132d42ec28b",
         "type": "tabs",
         "children": [
           {
-            "id": "5ce67cfe96991af7",
+            "id": "72eccf0b0d22ef14",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "专注和发散.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "如何阅读一段代码.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -90,19 +89,19 @@
             }
           },
           {
-            "id": "f4b2a0a8f87d14e9",
+            "id": "84d09d46b7183676",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "专注和发散.md",
+                "file": "如何阅读一段代码.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "23307ef39fcf382f",
+            "id": "270cdbd8be5fde73",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -113,12 +112,12 @@
             }
           },
           {
-            "id": "fd2a1683656ba8d9",
+            "id": "45184776546ff04e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "专注和发散.md"
+                "file": "如何阅读一段代码.md"
               }
             }
           }
@@ -126,19 +125,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "34fa66d77f999987",
+  "active": "5555ce587d11b182",
   "lastOpenFiles": [
+    "强化学习EasyRL.md",
+    "提高转专业成功率.md",
+    "无课表生成器.md",
+    "README.md",
+    "Python for Music.md",
     "openreview.md",
     "专注和发散.md",
     "缘起.md",
     "像硅基生命一样思考.md",
-    "提高转专业成功率.md",
-    "强化学习EasyRL.md",
-    "海的诗.md",
-    "README.md",
-    "Python for Music.md",
-    "2022-08-18.md"
+    "To Do List.md"
   ]
 }
