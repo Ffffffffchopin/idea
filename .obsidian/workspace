@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-08-21.md",
+            "file": "anxiety.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-08-21.md",
+                "file": "anxiety.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-08-21.md",
+                "file": "anxiety.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-08-21.md"
+                "file": "anxiety.md"
               }
             }
           }
@@ -130,7 +130,8 @@
   },
   "active": "34fa66d77f999987",
   "lastOpenFiles": [
-    "未命名.md",
+    "2022-08-21.md",
+    "anxiety.md",
     "专注和发散.md",
     "openreview.md",
     "缘起.md",
@@ -138,7 +139,6 @@
     "提高转专业成功率.md",
     "强化学习EasyRL.md",
     "海的诗.md",
-    "README.md",
-    "Python for Music.md"
+    "README.md"
   ]
 }
