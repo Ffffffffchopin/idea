@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "oj33刷题.md",
+            "file": "2022-08-24.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "oj33刷题.md",
+                "file": "2022-08-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "oj33刷题.md",
+                "file": "2022-08-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "oj33刷题.md"
+                "file": "2022-08-24.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "f400be6b64c06d6c",
   "lastOpenFiles": [
+    "README.md",
+    "专注和发散.md",
+    "Python for Music.md",
+    "oj33刷题.md",
+    "super().md",
     "提高转专业成功率.md",
     "主动学习.md",
-    "Python for Music.md",
-    "专注和发散.md",
     "像硅基生命一样思考.md",
     "openreview.md",
-    "缘起.md",
-    "强化学习EasyRL.md",
-    "如何阅读一段代码.md",
-    "当前焦虑.md"
+    "缘起.md"
   ]
 }
