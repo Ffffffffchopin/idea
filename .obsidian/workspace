@@ -7,13 +7,8 @@
         "id": "34fa66d77f999987",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "发表论文.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "发表论文.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -95,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "发表论文.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "发表论文.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -130,15 +121,15 @@
   },
   "active": "34fa66d77f999987",
   "lastOpenFiles": [
-    "2022-08-23.md",
-    "发表论文.md",
-    "Python for Music.md",
-    "openreview.md",
-    "anxiety.md",
-    "无课表生成器.md",
-    "2022-08-21.md",
+    "2022-08-24.md",
     "专注和发散.md",
-    "缘起.md",
-    "像硅基生命一样思考.md"
+    "自顶向下和自底向上.md",
+    "To Do List.md",
+    "README.md",
+    "Python for Music.md",
+    "anxiety.md",
+    "提高转专业成功率.md",
+    "2022-08-15.md",
+    "2022-08-18.md"
   ]
 }
