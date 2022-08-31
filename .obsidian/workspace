@@ -1,16 +1,17 @@
 {
   "main": {
-    "id": "ceedd0ed370334ed",
+    "id": "8de2a3ef643f53c1",
     "type": "split",
     "children": [
       {
-        "id": "f400be6b64c06d6c",
+        "id": "f5f6ac2578795fed",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-08-24.md",
+            "file": "实验想法.md",
             "mode": "source",
+            "backlinks": false,
             "source": false
           }
         }
@@ -19,15 +20,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4427123512f4ab35",
+    "id": "8092635ca8a4ef04",
     "type": "split",
     "children": [
       {
-        "id": "3001021f9226476d",
+        "id": "07e3b3bd19f47d29",
         "type": "tabs",
         "children": [
           {
-            "id": "d1c3e15ed57e56e1",
+            "id": "dff820406f26a19c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +36,7 @@
             }
           },
           {
-            "id": "126f37a85bb0c33c",
+            "id": "6829cf6c996a4843",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +51,7 @@
             }
           },
           {
-            "id": "704057efae202b12",
+            "id": "7d6a52518921bc7b",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -64,20 +65,20 @@
     "width": 300
   },
   "right": {
-    "id": "4f323081622ed892",
+    "id": "0261b9359e3d5622",
     "type": "split",
     "children": [
       {
-        "id": "9009a132d42ec28b",
+        "id": "bfe102def32c7ad1",
         "type": "tabs",
         "children": [
           {
-            "id": "72eccf0b0d22ef14",
+            "id": "12e2b24df2b6c194",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-08-24.md",
+                "file": "实验想法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,19 +90,19 @@
             }
           },
           {
-            "id": "84d09d46b7183676",
+            "id": "c039c0cff6a23fb0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-08-24.md",
+                "file": "实验想法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "270cdbd8be5fde73",
+            "id": "a1bd1752f4a05166",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -112,12 +113,12 @@
             }
           },
           {
-            "id": "45184776546ff04e",
+            "id": "c85c43c535c725af",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-08-24.md"
+                "file": "实验想法.md"
               }
             }
           }
@@ -128,17 +129,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f400be6b64c06d6c",
+  "active": "f5f6ac2578795fed",
   "lastOpenFiles": [
-    "README.md",
-    "专注和发散.md",
-    "Python for Music.md",
-    "oj33刷题.md",
+    "2022-08-27.md",
+    "2022-08-25.md",
+    "发表论文.md",
+    "2022-08-24.md",
     "super().md",
-    "提高转专业成功率.md",
-    "主动学习.md",
-    "像硅基生命一样思考.md",
-    "openreview.md",
-    "缘起.md"
+    "自顶向下和自底向上.md",
+    "专注和发散.md"
   ]
 }
